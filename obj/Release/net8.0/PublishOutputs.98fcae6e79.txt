@@ -1,0 +1,7 @@
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\malav\OneDrive\Documents\Visual Studio 2022\WebApp\AlpineSkiHouse\obj\Release\net8.0\PubTmp\Out\AlpineSkiHouse.pdb

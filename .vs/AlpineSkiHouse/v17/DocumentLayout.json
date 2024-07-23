@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malav\\OneDrive\\Documents\\Visual Studio 2022\\WebApp\\AlpineSkiHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0465B6BC-C964-4845-BBDB-5110043CB418}|AlpineSkiHouse.csproj|c:\\users\\malav\\onedrive\\documents\\visual studio 2022\\webapp\\alpineskihouse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0465B6BC-C964-4845-BBDB-5110043CB418}|AlpineSkiHouse.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0465B6BC-C964-4845-BBDB-5110043CB418}|AlpineSkiHouse.csproj|c:\\users\\malav\\onedrive\\documents\\visual studio 2022\\webapp\\alpineskihouse\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0465B6BC-C964-4845-BBDB-5110043CB418}|AlpineSkiHouse.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malav\\OneDrive\\Documents\\Visual Studio 2022\\WebApp\\AlpineSkiHouse\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malav\\OneDrive\\Documents\\Visual Studio 2022\\WebApp\\AlpineSkiHouse\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T04:49:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\malav\\OneDrive\\Documents\\Visual Studio 2022\\WebApp\\AlpineSkiHouse\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\malav\\OneDrive\\Documents\\Visual Studio 2022\\WebApp\\AlpineSkiHouse\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T04:48:51.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
